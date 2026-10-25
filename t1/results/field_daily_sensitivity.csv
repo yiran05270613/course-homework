@@ -1,0 +1,13 @@
+group,metric,mean_per_evaluated_day,excluded_zero_days
+T_pre,holding,22.97910344827586,0
+T_pre,stockout,28.133379310344825,0
+T_pre,total,51.11248275862068,0
+T_post,holding,26.491837071888682,0
+T_post,stockout,13.891933729174053,0
+T_post,total,40.38377080106274,0
+C_pre,holding,24.025341929590372,0
+C_pre,stockout,20.619810934694303,0
+C_pre,total,44.645152864284675,0
+C_post,holding,32.76111974780844,2
+C_post,stockout,39.00855033035367,2
+C_post,total,71.76967007816211,2

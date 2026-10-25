@@ -1,0 +1,55 @@
+{
+  "h": 1,
+  "b": 9,
+  "offline": {
+    "rows": 3000,
+    "unique_skus": 2607,
+    "zero_evaluated_skus": 37,
+    "fallbacks": 77,
+    "zero_evaluated": 259
+  },
+  "matching": {
+    "candidates": 55333,
+    "matched": 500,
+    "unique_matches": 424
+  },
+  "field": {
+    "T_pre": {
+      "n": 500,
+      "invalid_turnover": 0,
+      "unique_ids": 500,
+      "days_min": 30,
+      "days_max": 30
+    },
+    "T_post": {
+      "n": 500,
+      "invalid_turnover": 0,
+      "unique_ids": 500,
+      "days_min": 2,
+      "days_max": 32
+    },
+    "C_pre": {
+      "n": 500,
+      "invalid_turnover": 0,
+      "unique_ids": 500,
+      "days_min": 4,
+      "days_max": 30
+    },
+    "C_post": {
+      "n": 500,
+      "invalid_turnover": 0,
+      "unique_ids": 500,
+      "days_min": 1,
+      "days_max": 32
+    }
+  },
+  "inputs": {
+    "control_demand_vlt.csv": "4ef7baeb07d7a7ec14ddf1c4e16e00c87e0b7e22db0c3de59b93423c4b97a923",
+    "order_jd_post_500.csv": "40021c666a3e8c3cf8a8a1e36868bdc2de8b8626a04c5961b4976afc0d703e07",
+    "order_e2e_post_500.csv": "f7afe2a31a262f2ca29671c54ffc428dfeff716e35d23f236c987bddc7fdf925",
+    "order_jd_pre_500.csv": "d9cb5c9f7b73ab68630d0b25135df8a2ca650122e4d83f15a0e1bbdad131b209",
+    "df_test.csv": "491996c425d250a2ab2b864b18c2c617c97e8249ffba403d6aed1c5e5a20208e",
+    "order_e2e_pre_500.csv": "f5c6a3f3c3dbc25394f8d19d22d1d8c94cabb705d0e47efafabc8f3bac3ce5a8"
+  },
+  "elapsed_seconds": 1.0830729589797556
+}

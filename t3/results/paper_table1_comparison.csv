@@ -1,0 +1,8 @@
+statistic,replication,paper
+Mean profit gain,0.8312631913998857,0.849
+Std. dev. profit gain,0.10810323241584295,0.112
+Constant symmetric frequency,0.225,0.277
+Constant asymmetric frequency,0.375,0.366
+All constant frequency,0.6,0.643
+Cycle length 2 frequency,0.275,0.238
+Cycle length >=3 frequency,0.125,0.119

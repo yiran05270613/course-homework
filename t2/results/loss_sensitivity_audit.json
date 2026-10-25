@@ -1,0 +1,8 @@
+{
+  "epochs": 300,
+  "batch": 500,
+  "validation": 256,
+  "test_paths": 1000,
+  "seed": 20261024,
+  "elapsed_seconds": 30.296656833030283
+}

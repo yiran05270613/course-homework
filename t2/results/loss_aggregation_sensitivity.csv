@@ -1,0 +1,3 @@
+case,aggregation,mean_cost,change_pct,selected_epoch
+normal_L2_p0.8,batch_mean_before_exp,1875.7692,-1.8297017,300
+normal_L5_p0.8,batch_mean_before_exp,3406.2046,-5.003047,300
